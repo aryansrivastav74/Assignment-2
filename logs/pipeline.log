@@ -1,0 +1,23 @@
+2026-01-25 21:31:44,185 - INFO - API data extracted successfully
+2026-01-25 21:31:44,186 - INFO - Data transformation completed
+2026-01-25 21:31:44,186 - INFO - Validation completed. Valid records: 10
+2026-01-25 21:31:44,186 - INFO - Validated data saved to CSV
+2026-01-25 21:31:44,195 - INFO - Data inserted into SQLite database
+2026-01-25 21:31:44,196 - INFO - Pipeline executed successfully
+2026-01-26 22:28:12,911 - INFO - API data extracted successfully
+2026-01-26 22:28:12,912 - INFO - User data transformed for clean CSV
+2026-01-26 22:28:12,913 - INFO - Validation completed. Valid records: 10
+2026-01-26 22:28:12,913 - INFO - Validated clean user data saved to CSV
+2026-01-26 22:29:05,494 - INFO - API data extracted successfully
+2026-01-26 22:29:05,495 - INFO - User data transformed for clean CSV
+2026-01-26 22:29:05,496 - INFO - Validation completed. Valid records: 10
+2026-01-26 22:29:05,496 - INFO - Validated clean user data saved to CSV
+2026-01-26 22:29:05,505 - INFO - Clean user data inserted into SQLite database
+2026-01-26 22:29:05,506 - INFO - Pipeline executed successfully
+2026-01-26 22:35:21,900 - INFO - API data extracted successfully
+2026-01-26 22:35:21,901 - INFO - Transformation completed: full & clean datasets created
+2026-01-26 22:35:21,901 - INFO - Full CSV saved successfully
+2026-01-26 22:35:21,901 - INFO - Validation completed. Valid records: 10
+2026-01-26 22:35:21,901 - INFO - Clean CSV saved successfully
+2026-01-26 22:35:21,925 - INFO - Clean data inserted into SQLite
+2026-01-26 22:35:21,927 - INFO - Pipeline executed successfully
