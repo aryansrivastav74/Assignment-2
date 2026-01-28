@@ -9,7 +9,7 @@ def transform_users(users):
         geo = address.get("geo", {})
         company = user.get("company", {})
 
-        # -------- FULL DATA (NO VALIDATION) --------
+        
         full_data.append({
             "id": user.get("id"),
             "name": user.get("name"),
@@ -28,7 +28,7 @@ def transform_users(users):
             "company_bs": company.get("bs"),
         })
 
-        # -------- CLEAN BASE (FOR VALIDATION) --------
+        
         full_address = f"{address.get('street')}, {address.get('suite')}, {address.get('city')}, {address.get('zipcode')}"
 
         clean_base.append({

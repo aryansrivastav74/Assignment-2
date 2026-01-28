@@ -3,7 +3,6 @@ import logging
 import os
 import sqlite3
 
-# -------- SAVE FULL CSV --------
 def save_full_csv(users, file_path):
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
@@ -22,7 +21,7 @@ def save_full_csv(users, file_path):
     logging.info("Full CSV saved successfully")
 
 
-# -------- SAVE CLEAN CSV --------
+
 def save_to_csv(users, file_path):
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
@@ -39,7 +38,7 @@ def save_to_csv(users, file_path):
     logging.info("Clean CSV saved successfully")
 
 
-# -------- INSERT INTO SQLITE --------
+
 def insert_into_db(users, db_path):
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
 
