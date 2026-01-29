@@ -147,29 +147,7 @@
 
 📁 Project File Structure
 
-├── code
-│   ├── extractor.py        # API data extraction
-│   ├── transformer.py     # JSON transformation
-│   ├── validator.py       # Data quality rules
-│   ├── loader.py          # SQLite insertion
-│   ├── insights.py        # SQL analytics
-│   ├── query_sqlite.py    # Manual SQLite queries
-│   ├── update_sheet.py   # Sheet updates
-│   └── main.py            # Pipeline controller
-│
-├── data
-│   ├── cleaned_user_data.csv
-│   └── Complete_users_data.csv
-│
-├── database
-│   ├── users.db
-│   ├── database.csv
-│   └── database.png       # Database screenshot
-│
-├── logs
-│   └── pipeline.log
-│
-└── requirements.txt
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0c29c554-2ee7-47ef-9a24-fda711994721" />
 
 🖥️  Terminal Dashboard
 <img width="2816" height="1536" alt="Gemini_Generated_Image_fom695fom695fom6" src="<img width="2816" height="1504" alt="Gemini_Generated_Image_15wl5415wl5415wl" src="https://github.com/user-attachments/assets/2f2693a5-4a88-4b69-888a-4d67d553d10b" />
