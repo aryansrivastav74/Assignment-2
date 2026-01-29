@@ -1,4 +1,5 @@
 🚀 User Data ETL Pipeline & SQLite Integration
+
       Assignment #2 – Data Engineering
 📌 Project Description & Overview
 
@@ -125,6 +126,7 @@
    address	Combined street, suite, city
    phone	Contact number
    company_name	Company name
+   
 📸 Actual Database Output (After ETL Run)
 
    Screenshot below shows the final SQLite database table containing only
@@ -150,8 +152,8 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0c29c554-2ee7-47ef-9a24-fda711994721" />
 
 🖥️  Terminal Dashboard
-<img width="2816" height="1536" alt="Gemini_Generated_Image_fom695fom695fom6" src="<img width="2816" height="1504" alt="Gemini_Generated_Image_15wl5415wl5415wl" src="https://github.com/user-attachments/assets/2f2693a5-4a88-4b69-888a-4d67d553d10b" />
 
+<img width="2816" height="1504" alt="Gemini_Generated_Image_15wl5415wl5415wl" src="https://github.com/user-attachments/assets/653d8809-2e79-43af-8746-e8978e7afd18" />
 
   Running the pipeline gives real-time feedback for each ETL stage.
 
