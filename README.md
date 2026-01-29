@@ -220,5 +220,5 @@ python code/main.py
 
 🏁 Conclusion
 
-This project demonstrates a complete ETL lifecycle using Python and SQLite, closely reflecting real-world data engineering pipelines.
-It emphasizes data quality, reliability, and analytical readiness, making it suitable for both academic evaluation and professional portfolios.
+   This project demonstrates a complete ETL lifecycle using Python and SQLite, closely reflecting real-world data engineering pipelines.
+   It emphasizes data quality, reliability, and analytical readiness, making it suitable for both academic evaluation and professional portfolios.
