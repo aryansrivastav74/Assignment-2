@@ -146,6 +146,7 @@
    This design mirrors production-grade ETL systems.
 
 📁 Project File Structure
+
 ├── code
 │   ├── extractor.py        # API data extraction
 │   ├── transformer.py     # JSON transformation
