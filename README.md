@@ -168,7 +168,7 @@ This design mirrors production-grade ETL systems.
 └── requirements.txt
 
 🖥️  Terminal Dashboard
-<img width="2816" height="1536" alt="Gemini_Generated_Image_fom695fom695fom6" src="https://github.com/user-attachments/assets/be63c7fb-9f1c-4f1c-b19c-c19527598a45" />
+<img width="2816" height="1536" alt="Gemini_Generated_Image_fom695fom695fom6" src="<img width="2816" height="1504" alt="Gemini_Generated_Image_15wl5415wl5415wl" src="https://github.com/user-attachments/assets/2f2693a5-4a88-4b69-888a-4d67d553d10b" />
 
 
 Running the pipeline gives real-time feedback for each ETL stage.
